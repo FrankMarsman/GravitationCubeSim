@@ -1,8 +1,14 @@
 # GravitationCubeSim
-Simulation of a particle orbiting a cube shaped body
+Simulation of a particle orbiting a cube shaped body.
+
+<img width="350" alt="GUI" src="https://user-images.githubusercontent.com/7474358/140446798-7fdfb50c-043f-4a80-a705-7b5e3fd4597c.png">
+
+## Introduction
+This program can be used to simulate a point mass orbiting a central, cube shaped body. The program uses simple [**Newtonian gravity**](https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation) to compute the forces on the simulated particles. The user can control the masses, positions, and velocities of various particles in the simulation. 
+
 
 ## The GUI
-The GUI of this program is shown below.
+The GUI of this program is shown below. The GUI allows the user to vary the simulation speed, as well as some other simulation parameters.
 
 <img width="474" alt="GUI" src="https://user-images.githubusercontent.com/7474358/140445786-19775afe-3d89-4fba-b2b4-ef6b6c9cf27b.gif">
 
