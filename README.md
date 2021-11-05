@@ -23,7 +23,7 @@ Three example simulations are shown below. It is possible to create a wide range
 </p>
 
 ## Usage
-To add a central cube, use the `AddStaticCube(double len, uint N, double M)` method defined in [`gravsim.cpp`](code/gravsim.cpp). This will add a cube with side lengths `len` [m] and mass `M` [kg]. The generated cube consists of `N` x `N` point masses, arranged in a square grid.
+To add a central cube, use the `AddStaticCube(double len, uint N, double M)` method defined in [`gravsim.cpp`](https://github.com/FrankMarsman/GravitationCubeSim/blob/f4a708280b7b7458027ac976e97b3497a8743402/code/gravsim.cpp#L25-L39). This will add a cube with side lengths `len` [m] and mass `M` [kg]. The generated cube consists of `N` x `N` point masses, arranged in a square grid.
 
 ## How to run
 
