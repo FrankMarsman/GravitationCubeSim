@@ -3,6 +3,7 @@ Simulation of a particle orbiting a cube shaped body
 
 ## The GUI
 The GUI of this program is shown below.
+
 <img width="474" alt="GUI" src="https://user-images.githubusercontent.com/7474358/140445786-19775afe-3d89-4fba-b2b4-ef6b6c9cf27b.gif">
 
 
